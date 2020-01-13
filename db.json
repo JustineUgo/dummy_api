@@ -7,41 +7,5 @@
     "location": "Singapore",
     "position": "Software Engineer",
     "picture": "https://image.shutterstock.com/image-photo/studio-shot-young-man-looking-600w-372072697.jpg"
-  },
-  {
-    "company": "Google",
-    "description": "job description",
-    "employmentType": "",
-    "id": 2,
-    "location": "Hong Kong",
-    "position": "Software Engineering Manager",
-    "picture": "https://image.shutterstock.com/image-photo/isolated-shot-young-handsome-male-600w-762790210.jpg"
-  },
-  {
-    "company": "Microsoft",
-    "description": "job description",
-    "employmentType": "",
-    "id": 3,
-    "location": "Singapore",
-    "position": "System Engineer",
-    "picture": "https://image.shutterstock.com/image-photo/handsome-unshaven-young-darkskinned-male-600w-640011838.jpg"
-  },
-  {
-    "company": "DBS",
-    "description": "Expert in Excel",
-    "employmentType": "",
-    "id": 4,
-    "location": "Singapore",
-    "position": "Data Scientist",
-    "picture": "https://image.shutterstock.com/image-photo/portrait-young-amazed-man-isolated-600w-599304416.jpg"
-  },
-  {
-    "company": "Smart",
-    "description": "Willing to do improve the UI",
-    "employmentType": "Fulltime",
-    "id": 0,
-    "location": "Philippines",
-    "position": "ReactJS Developer",
-    "picture": "https://image.shutterstock.com/image-photo/portrait-happy-mature-man-wearing-600w-732336316.jpg"
   }
 }
